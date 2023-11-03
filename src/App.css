@@ -1,0 +1,16 @@
+.containers{
+  width: 98vw;
+  height: 88vh;
+}
+.flex_decoration{
+  display: flex;
+  width: 100%; 
+  flex-direction: row;
+  justify-content: space-around;
+  font-weight: 600;
+  font-size: 15px;
+  align-items: center;
+}
+.together{
+  padding: 0px 5px;
+}
